@@ -39,6 +39,7 @@ Ensure your website is designed as a collection of HTML, CSS, JavaScript, images
         }
     ]
 }
+```
 
 ### Step 6:Access your website
 After saving the bucket policy, you'll see a website endpoint URL in the "Static website hosting" section. It will be in the format of http://your-bucket-name.s3-website-region.amazonaws.com. Visit this URL in your browser to see your static website.
