@@ -24,4 +24,4 @@
 
 8. **Review and Create:** Review your configuration settings, and then click "Create function" to create your Lambda function.
 
-9.** Testing:** Once your function is created, you can test it using the Lambda console's built-in testing feature or by invoking it using the AWS SDK or CLI.
+9. **Testing:** Once your function is created, you can test it using the Lambda console's built-in testing feature or by invoking it using the AWS SDK or CLI.
